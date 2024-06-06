@@ -11,3 +11,4 @@ veya filter=lfs diff=lfs merge=lfs -text
 .largefileextension filter=lfs diff=lfs merge=lfs -text
 büyük filter=lfs diff=lfs merge=lfs -text
 *csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
